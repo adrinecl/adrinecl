@@ -7,7 +7,6 @@
   <br>
   <b>I have dual citizenship:</b> I'm originally from São Paulo 🇧🇷, but I live in Stockholm 🇸🇪
   <br>
-  😄 <b>Pronouns:</b> She / her
 </p>
 
 <p align='center'>
@@ -35,6 +34,7 @@
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 <hr>
 <h4>🌱 This year I plan to learn...</h4>
